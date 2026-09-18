@@ -2,8 +2,8 @@
 
 Software Engineer specializing in **Cloud & Distributed Systems**, with 2.5+ years of backend, real-time systems, and infrastructure experience. MSc Information Systems (First Class Honours) from University of Galway, Ireland.
 
-- 🏛️ Former Software Engineer at **C-DAC** (Govt. of India R&D org) — worked on mission-critical emergency-response platforms
-- ⚙️ Backend, distributed systems, Kafka/RabbitMQ, REST APIs, AWS, Linux infra
+- 🏛️ Former Software Engineer at **C-DAC** (Govt. of India). Worked on mission-critical Emergency Response Support System ERSS-112
+- ⚙️ Backend, distributed systems, Kafka/RabbitMQ, REST APIs, AWS, Linux infrastructure
 - 🎓 MSc Information Systems, University of Galway | B.Tech Electronics & Communication Engineering
 - 🇮🇪 Based in Ireland, open to Software Engineering roles
 
@@ -19,14 +19,13 @@ Software Engineer specializing in **Cloud & Distributed Systems**, with 2.5+ yea
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 Featured Projects
 
-- **[ShiftFlow](https://github.com/abeyjoshy/ShiftFlow_Workforce)** — Serverless cloud workforce scheduling app (AWS Lambda, API Gateway, S3, CI/CD)
-- **IoHT Patient Monitoring** — Real-time healthcare IoT prototype for bedridden patients ([IEEE Publication](https://doi.org/10.1109/ICRITO56286.2022.9964893))
+- **[ShiftFlow](https://github.com/abeyjoshy/ShiftFlow_Workforce)** — Serverless cloud workforce scheduling app (AWS Lambda, API Gateway, S3, CI/CD) 
 - **[POS System](https://github.com/abeyjoshy/epos_application)** — Desktop billing & transaction app (C#, .NET, Windows Forms)
+- **[IoHT Patient Monitoring](https://doi.org/10.1109/ICRITO56286.2022.9964893)** — Real-time healthcare IoT prototype for bedridden patients
 
 ## 🤝 Let's Connect
 
