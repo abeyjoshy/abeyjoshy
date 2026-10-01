@@ -23,6 +23,7 @@ Software Engineer specializing in **Cloud & Distributed Systems**, with 2.5+ yea
 
 ## 🚀 Featured Projects
 
+- **[SPHERE](https://github.com/abeyjoshy/ShiftFlow_Workforce)** — Secure Patient Health Record Exchange, MSc research prototype (Node.js, Express, MongoDB, PostgreSQL) 
 - **[ShiftFlow](https://github.com/abeyjoshy/ShiftFlow_Workforce)** — Serverless cloud workforce scheduling app (AWS Lambda, API Gateway, S3, CI/CD) 
 - **[POS System](https://github.com/abeyjoshy/epos_application)** — Desktop billing & transaction app (C#, .NET, Windows Forms)
 - **[IoHT Patient Monitoring](https://doi.org/10.1109/ICRITO56286.2022.9964893)** — Real-time healthcare IoT prototype for bedridden patients
